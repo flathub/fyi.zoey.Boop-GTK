@@ -48,13 +48,13 @@
                 {
                     "type": "git",
                     "url": "https://github.com/zoeyfyi/Boop-GTK/",
-                    "tag": "v1.6.0",
+                    "tag": "v1.7.0",
                     "commit": "be56d574fee0fce24f7349f583a5ece09355802c"
                 },
                 {
                     "type": "file",
                     "only-arches": [ "x86_64" ],
-                    "url": "https://github.com/denoland/rusty_v8/releases/download/v0.12.0/librusty_v8_release_x86_64-unknown-linux-gnu.a",
+                    "url": "https://github.com/denoland/rusty_v8/releases/download/v0.21.0/librusty_v8_release_x86_64-unknown-linux-gnu.a",
                     "sha256": "0fbec8d8a3e997296cd3d39f2c4e98b92f6b21913447385be62840074caaf1a2",
                     "dest": "target/release/gn_out/obj",
                     "dest-filename": "librusty_v8.a"
@@ -62,7 +62,7 @@
                 {
                     "type": "file",
                     "only-arches": [ "aarch64" ],
-                    "url": "https://github.com/denoland/rusty_v8/releases/download/v0.12.0/librusty_v8_release_aarch64-unknown-linux-gnu.a",
+                    "url": "https://github.com/denoland/rusty_v8/releases/download/v0.21.0/librusty_v8_release_aarch64-unknown-linux-gnu.a",
                     "sha256": "c71be319dc6ef09748abb7fbbc0fae87638ad787da5e9d2faec112f2d9442c34",
                     "dest": "target/release/gn_out/obj",
                     "dest-filename": "librusty_v8.a"
