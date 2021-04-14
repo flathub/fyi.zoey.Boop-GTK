@@ -248,15 +248,15 @@
     },
     {
         "type": "file",
-        "url": "https://static.crates.io/crates/color-eyre/color-eyre-0.5.11.crate",
-        "sha256": "1f1885697ee8a177096d42f158922251a41973117f6d8a234cee94b9509157b7",
+        "url": "https://static.crates.io/crates/color-eyre/color-eyre-0.5.10.crate",
+        "sha256": "7b29030875fd8376e4a28ef497790d5b4a7843d8d1396bf08ce46f5eec562c5c",
         "dest": "cargo/vendor",
-        "dest-filename": "color-eyre-0.5.11.crate"
+        "dest-filename": "color-eyre-0.5.10.crate"
     },
     {
         "type": "file",
-        "url": "data:%7B%22package%22%3A%20%221f1885697ee8a177096d42f158922251a41973117f6d8a234cee94b9509157b7%22%2C%20%22files%22%3A%20%7B%7D%7D",
-        "dest": "cargo/vendor/color-eyre-0.5.11",
+        "url": "data:%7B%22package%22%3A%20%227b29030875fd8376e4a28ef497790d5b4a7843d8d1396bf08ce46f5eec562c5c%22%2C%20%22files%22%3A%20%7B%7D%7D",
+        "dest": "cargo/vendor/color-eyre-0.5.10",
         "dest-filename": ".cargo-checksum.json"
     },
     {
